@@ -1,0 +1,19 @@
+body{
+    background: #E8C5C5;
+    margin-left: 50px;
+
+}
+
+h1{
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+footer{
+    margin-bottom: 300px;
+}
+
+.img_padrao{
+    margin-bottom: 20px ;
+    width: 300px;
+
+}
